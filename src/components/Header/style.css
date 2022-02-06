@@ -1,0 +1,18 @@
+#my-name {
+    font-family: "Montserrat Alternates";
+    margin-top: 7px;
+}
+
+@media only screen and (min-width: 960px) {
+  #my-name {
+      margin-left: 150px;
+  }
+}
+
+
+/* Smaller screens */
+@media only screen and (max-width: 776px) {
+  #my-name {
+      margin-top: 20px;
+  }
+}
