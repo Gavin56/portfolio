@@ -46,9 +46,9 @@ const projects = [
     description:
       "A React application that dynamically updates an employee data table as the user types a search.",
     image:
-      "https://raw.githubusercontent.com/Gavin56/employee-directory/master/assets/images/employee-directory-main.png",
+      "https://github.com/Gavin56/images/blob/main/EmployeeDirectory.png?raw=true",
     links: {
-      appLink: "https://gavin56.github.io/employee-directory-official/",
+      appLink: "https://gavin56.github.io/employee-directory/",
       repoLink: "https://github.com/Gavin56/employee-directory",
     },
   },
@@ -59,8 +59,8 @@ const projects = [
     image:
       "https://github.com/Gavin56/images/blob/main/Webp.net-resizeimage%20(1).png?raw=true",
     links: {
-      appLink: "https://gavin56.github.io/weatherman/",
-      repoLink: "https://github.com/Gavin56/weatherman",
+      appLink: "https://gavin56.github.io/weatherapp/",
+      repoLink: "https://github.com/Gavin56/weatherapp",
     },
   },
 ];
